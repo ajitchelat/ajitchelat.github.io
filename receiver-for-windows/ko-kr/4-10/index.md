@@ -1,0 +1,10 @@
+---
+layout: leftnav
+title: Citrix Receiver 에 Windows 4.10
+menu: subnav
+---
+
+Citrix Receiver를 사용하면 어떤 장치에서든 가상 데스크톱 및 앱에 액세스하여 어디서든 간편하게 작업할 수 있습니다. Receiver는 안전하고 사용이 간편하며 여러 장치 간에 일관되게 작동합니다.
+
+**참고**: 이 도움말 항목에 설명된 기능 중 일부에 대한 액세스는 관리자에 의해 제한될 수 있습니다.
+

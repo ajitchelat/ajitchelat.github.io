@@ -1,0 +1,10 @@
+---
+layout: leftnav
+title: Citrix Receiver para Windows 4.10
+menu: subnav
+---
+
+Citrix Receiver brinda acceso a aplicaciones y escritorios virtuales desde cualquier dispositivo, lo que facilita el trabajo desde cualquier ubicación. Receiver es seguro, fácil de usar y consistente en todos los dispositivos.
+
+**Nota**: Es posible que el administrador no le dé acceso a todas las funciones que se describen en estos temas.
+
